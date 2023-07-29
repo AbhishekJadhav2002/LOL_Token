@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/LOL_Token/static/css/main.cd1c3579.css",
+    "main.js": "/LOL_Token/static/js/main.cf39664d.js",
+    "static/js/374.157d6392.chunk.js": "/LOL_Token/static/js/374.157d6392.chunk.js",
+    "static/js/493.a3662582.chunk.js": "/LOL_Token/static/js/493.a3662582.chunk.js",
+    "static/js/883.623946fb.chunk.js": "/LOL_Token/static/js/883.623946fb.chunk.js",
+    "static/js/787.8d0aad84.chunk.js": "/LOL_Token/static/js/787.8d0aad84.chunk.js",
+    "static/js/142.e674ad0b.chunk.js": "/LOL_Token/static/js/142.e674ad0b.chunk.js",
+    "static/js/4.41e4bcea.chunk.js": "/LOL_Token/static/js/4.41e4bcea.chunk.js",
+    "static/js/771.6e979afb.chunk.js": "/LOL_Token/static/js/771.6e979afb.chunk.js",
+    "static/js/956.1b1f8130.chunk.js": "/LOL_Token/static/js/956.1b1f8130.chunk.js",
+    "static/js/741.65e9e497.chunk.js": "/LOL_Token/static/js/741.65e9e497.chunk.js",
+    "static/js/611.8ff1a556.chunk.js": "/LOL_Token/static/js/611.8ff1a556.chunk.js",
+    "index.html": "/LOL_Token/index.html",
+    "main.cd1c3579.css.map": "/LOL_Token/static/css/main.cd1c3579.css.map",
+    "main.cf39664d.js.map": "/LOL_Token/static/js/main.cf39664d.js.map",
+    "374.157d6392.chunk.js.map": "/LOL_Token/static/js/374.157d6392.chunk.js.map",
+    "493.a3662582.chunk.js.map": "/LOL_Token/static/js/493.a3662582.chunk.js.map",
+    "787.8d0aad84.chunk.js.map": "/LOL_Token/static/js/787.8d0aad84.chunk.js.map",
+    "142.e674ad0b.chunk.js.map": "/LOL_Token/static/js/142.e674ad0b.chunk.js.map",
+    "4.41e4bcea.chunk.js.map": "/LOL_Token/static/js/4.41e4bcea.chunk.js.map",
+    "771.6e979afb.chunk.js.map": "/LOL_Token/static/js/771.6e979afb.chunk.js.map",
+    "956.1b1f8130.chunk.js.map": "/LOL_Token/static/js/956.1b1f8130.chunk.js.map",
+    "741.65e9e497.chunk.js.map": "/LOL_Token/static/js/741.65e9e497.chunk.js.map",
+    "611.8ff1a556.chunk.js.map": "/LOL_Token/static/js/611.8ff1a556.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd1c3579.css",
+    "static/js/main.cf39664d.js"
+  ]
+}
