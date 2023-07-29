@@ -1,10 +1,9 @@
-import { Web3Button } from "@web3modal/react";
 import { useState } from "react";
 import { toast } from "react-toastify";
 import { useWallet } from "../../context/web3.context";
 
 export default function Transfer() {
-  const { isConnected, balance, transfer } = useWallet();
+  const { balance, transfer } = useWallet();
   const [loading, setLoading] = useState(false);
 
   const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
@@ -22,17 +21,6 @@ export default function Transfer() {
       setLoading(false);
     }
   };
-
-  if (!isConnected) {
-    return (
-      <div className="flex flex-col items-center justify-center h-full gap-6">
-        <h1 className="text-2xl font-medium text-gray-700 dark:text-white">
-          Please connect your wallet to continue
-        </h1>
-        <Web3Button />
-      </div>
-    );
-  }
 
   return (
     <form
