@@ -27,6 +27,8 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "contracts": "typechain --target ethers-v5 --out-dir src/types/contracts 'src/config/abi/*.json'"
@@ -51,7 +53,9 @@
   },
   "devDependencies": {
     "@typechain/ethers-v5": "^11.1.1",
+    "gh-pages": "^5.0.0",
     "tailwindcss": "^3.3.3",
     "typechain": "^8.2.0"
-  }
+  },
+  "homepage": "http://AbhishekJadhav2002.github.io/LOL_Token"
 }
